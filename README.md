@@ -5,7 +5,7 @@ I'm Klevin, I am a Junior Web Developer focused on **MERN Stack**. I am a studen
 > Below I will provide more information about my education and the projects that I have been working on.
 
 
-## Education
+## :school: Education
 :mortar_board: <strong>"[Aleksander Xhuvani](https://www.uniel.edu.al/)" University Elbasan, Albania | Bachelor in IT</strong>
         
 :computer: <strong>[STRIVE School](https://strive.school/) | 6 months online coding course </strong>
@@ -27,7 +27,7 @@ I'm Klevin, I am a Junior Web Developer focused on **MERN Stack**. I am a studen
 - Youtube | [Repo]() | [Live]().
 
 
-## GitHub
+## <img height="32" width="32" src="https://simpleicons.org/icons/github.svg" /> GitHub
 ![Klevin's github stats](https://github-readme-stats.vercel.app/api?username=klevinb&count_private=true&hide=issues,prs&show_icons=true&theme=vue&bg_color=white)
 
 ## What I Use
