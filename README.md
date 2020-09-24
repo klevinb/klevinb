@@ -30,7 +30,7 @@ I'm Klevin, I am a Junior Web Developer focused on **MERN Stack**. I am a studen
 ## <img height="32" width="32" src="https://simpleicons.org/icons/github.svg" /> GitHub
 ![Klevin's github stats](https://github-readme-stats.vercel.app/api?username=klevinb&count_private=true&hide=issues,prs&show_icons=true&theme=vue&bg_color=white)
 
-![Arbionas's github stats](https://github-readme-stats.vercel.app/api?username=arb1ona&count_private=true&hide=issues,prs&show_icons=true&theme=vue&bg_color=white)
+![Arbionas's github stats](https://github-readme-stats.vercel.app/api?username=arb1ona&count_private=true&show_icons=true&theme=vue&bg_color=white)
 
 ## What I Use
 <div style="display:flex;">
