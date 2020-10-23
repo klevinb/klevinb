@@ -24,8 +24,8 @@ I'm Klevin, I am a Junior Web Developer focused on **MERN Stack**. I am a studen
 - Spotify | [FrontEnd-Repo](https://github.com/klevinb/Spotify_FE) | [BackEnd-Repo](https://github.com/klevinb/Spotify_Backend) | [Live](https://fakespotify.herokuapp.com/).
 - Linkedin | [FrontEnd-Repo](https://github.com/klevinb/LinkedinBackend_TBW_FE) | [BackEnd-Repo](https://github.com/klevinb/LinkedinBackend_TBW_AUTH) | [Live](https://linkedinfakefe.herokuapp.com/).
 - Weather App | [FrontEnd-Repo](https://github.com/klevinb/WeatherApp) | [Live](http://tsweatherapp.herokuapp.com).
-- Restautrant App | [FrontEnd-Repo]() | [BackEnd-Repo]() | [Live]().
-- Travel Info | [FrontEnd-Repo]() | [BackEnd-Repo]() | [Live]().
+- Restautrant App | [FrontEnd-Repo](https://github.com/klevinb/Pasta_Restaurant) | [Live](http://pastarestaurant.herokuapp.com/).
+- Travel Info | [FrontEnd-Repo](https://github.com/klevinb/Travel_App) | [Live](https://thingstodotravel.herokuapp.com/).
 - Netflix | [FrontEnd-Repo]() | [BackEnd-Repo]() | [Live]().
 - Online Shopping | [FrontEnd-Repo]() | [BackEnd-Repo]() | [Live]().
 - Youtube | [FrontEnd-Repo]() | [BackEnd-Repo]() | [Live]().
