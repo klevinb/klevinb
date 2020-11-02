@@ -18,7 +18,7 @@ I'm Klevin, I am a Junior Web Developer focused on **MERN Stack**, but I am alwa
 
 ## :man_technologist: Projects
 
-> ...most of the projects were deployed on free hosting, please be patient if they take a little time
+> ...most of the projects were deployed on free hosting, please be patient if they take a little time :)
 
 - YOLO | [FrontEnd-Repo](https://github.com/klevinb/Solo_Capstone_FE) | [BackEnd-Repo](https://github.com/klevinb/Solo_Capstone_BE) | [Live](https://yolowebsitefe.herokuapp.com/).
 - Spotify | [FrontEnd-Repo](https://github.com/klevinb/Spotify_FE) | [BackEnd-Repo](https://github.com/klevinb/Spotify_Backend) | [Live](https://fakespotify.herokuapp.com/).
