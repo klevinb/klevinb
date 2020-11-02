@@ -41,3 +41,5 @@ I'm Klevin, I am a Junior Web Developer focused on **MERN Stack**, but I am alwa
   <img height="32" width="32" src="https://simpleicons.org/icons/node-dot-js.svg" />
   <img height="32" width="32" src="https://simpleicons.org/icons/react.svg" />
 </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klevinb&layout=compact)]
