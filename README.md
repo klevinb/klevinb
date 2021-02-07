@@ -32,7 +32,7 @@ I'm Klevin, I am a Junior Web Developer focused on **MERN Stack**, but I am alwa
 
 
 ## <img height="32" width="32" src="https://simpleicons.org/icons/github.svg" /> GitHub
-![Klevin's github stats](https://github-readme-stats.vercel.app/api?username=OksanaCoder&count_private=true&hide=issues,prs&show_icons=true&theme=vue&bg_color=white)
+![Klevin's github stats](https://github-readme-stats.vercel.app/api?username=klevinb&count_private=true&hide=issues,prs&show_icons=true&theme=vue&bg_color=white)
 
 ## What I Use
 <div style="display:flex;">
