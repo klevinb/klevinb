@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Klevin, I am a Junior Web Developer focused on **MERN Stack**, but I am always ready to learn new technologies.
+I'm Klevin, I am a Web Developer focused on **MERN Stack**, but I am always ready to learn new technologies.
 
 > Below I will provide more information about my education and the projects that I have been working on.
 
